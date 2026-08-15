@@ -1,0 +1,6 @@
+{
+  "name": "UniPlanner",
+  "description": "Organizador universitario multi-usuario para Anna, Isa y Sun con temas personalizados (Rojo & Negro, Púrpura & Rosa, Colores del Mar), inicio de sesión seguro, gestión de materias, tareas con alertas, notas, finanzas y liga de logros competitivos.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
